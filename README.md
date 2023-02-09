@@ -1,1 +1,1 @@
-# test project
+# Auto Staking Project
